@@ -25,12 +25,12 @@ nav
 
 .block_page
 {
-	background: url('/static/images/fond_beije.jpg');
+	background: url('votre nom de dossier')
 }
 
 section
 {
-   color: white;
+   color: white
 }
 @font-face{
     font-family: 'BallparkWeiner';
@@ -72,5 +72,6 @@ a:visited
 
 body
 {
-   background: url('../images/fond_beije.jpg');
+  background-color: black; /* Le fond de la page sera noir */
+  color: white; /* la couleur du texte sera blanche */
 }
