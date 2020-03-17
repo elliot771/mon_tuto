@@ -25,7 +25,7 @@ nav
 
 .block_page
 {
-	background: url('votre nom de dossier')
+	background: url('/static/images/fond_beije.jpg')
 }
 
 section
@@ -72,6 +72,5 @@ a:visited
 
 body
 {
-  background-color: black; /* Le fond de la page sera noir */
-  color: white; /* la couleur du texte sera blanche */
+
 }
