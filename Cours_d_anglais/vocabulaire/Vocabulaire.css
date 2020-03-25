@@ -1,0 +1,17 @@
+h1, h2
+{
+	text-align: center;
+}
+
+td
+{
+	border: 1px solid black;
+}
+table
+{
+	border-collapse: collapse;
+}
+th
+{
+	border: 1px solid black;
+}
