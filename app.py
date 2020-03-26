@@ -12,6 +12,10 @@ def home():
 def contact():
 	return render_template('contact.html')
 
+@app.route('/vocabulaire')
+def vocabulaire:
+	return render_template('vocabulaire.html')
+
 
 
 if __name__ == '__main__':
